@@ -132,7 +132,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-accesscontrol=y
           CONFIG_PACKAGE_luci-app-adbyby-plus=y
           # CONFIG_PACKAGE_luci-app-airplay2 is not set
-          # CONFIG_PACKAGE__luci-app-amule is not set
+          # CONFIG_PACKAGE_luci-app-amule is not set
           CONFIG_PACKAGE_luci-app-arpbind=y
           CONFIG_PACKAGE_luci-app-autoreboot=y
           CONFIG_PACKAGE_luci-app-ddns=y
